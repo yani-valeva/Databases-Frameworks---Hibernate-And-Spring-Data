@@ -1,4 +1,4 @@
-package define_person_class;
+package definePersonClass;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package test_client;
+package definePersonClass;
 
 public class BankAccount {
     private int id;

@@ -1,4 +1,4 @@
-package getters_and_setters;
+package testClient;
 
 public class BankAccount {
     private int id;
@@ -22,7 +22,7 @@ public class BankAccount {
 
     public void withdraw (double amount) {
         if (amount > this.balance) {
-            throw new IllegalStateException("Insufficient balance!");
+            throw new IllegalStateException("Insufficient balance");
         }
 
         this.balance -= amount;

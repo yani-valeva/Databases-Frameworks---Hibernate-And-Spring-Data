@@ -1,4 +1,4 @@
-package define_person_class;
+package definePersonClass;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package static_id_and_rate;
+package staticIdAndRate;
 
 public class BankAccount {
     private final static double DEFAULT_INTEREST = 0.02;

@@ -1,4 +1,4 @@
-package define_bank_account;
+package defineBankAccount;
 
 public class BankAccount {
     public int id;

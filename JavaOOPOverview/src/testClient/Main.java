@@ -1,4 +1,4 @@
-package test_client;
+package testClient;
 
 import java.io.BufferedReader;
 import java.io.IOException;
