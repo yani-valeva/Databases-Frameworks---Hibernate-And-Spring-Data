@@ -14,9 +14,16 @@ Description of problems - https://softuni.bg/trainings/resources/officedocument/
 - Java OOP Principles - https://github.com/yani-valeva/Databases-Frameworks---Hibernate-And-Spring-Data/tree/master/Interfaces%20and%20Abstraction.
 Description of problems - https://softuni.bg/trainings/resources/officedocument/16295/lab-problem-descriptions-databases-frameworks-hibernate-and-spring-data-june-2017;
 
+- OOP Principles еxercises - https://github.com/yani-valeva/Databases-Frameworks---Hibernate-And-Spring-Data/tree/master/OOPPrinciplesExercises.
+Description of problems - https://softuni.bg/trainings/resources/officedocument/16340/exercise-problem-descriptions-databases-frameworks-hibernate-and-spring-data-june-2017;
+
 - Java Fundamentals Lab - https://github.com/yani-valeva/Databases-Frameworks---Hibernate-And-Spring-Data/tree/master/Java%20Fundamentals.
 Description of problems - https://softuni.bg/trainings/resources/officedocument/16382/lab-problem-descriptions-databases-frameworks-hibernate-and-spring-data-june-2017;
 
-- OOP Principles еxercises - https://github.com/yani-valeva/Databases-Frameworks---Hibernate-And-Spring-Data/tree/master/OOPPrinciplesExercises.
-Description of problems - https://softuni.bg/trainings/resources/officedocument/16340/exercise-problem-descriptions-databases-frameworks-hibernate-and-spring-data-june-2017.
+- Java Fundamentals еxercises - https://github.com/yani-valeva/Databases-Frameworks---Hibernate-And-Spring-Data/tree/master/Java%20Fundamentals%20-%20Exercises.
+Description of problems - https://softuni.bg/trainings/resources/officedocument/16413/exercise-problem-descriptions-databases-frameworks-hibernate-and-spring-data-june-2017.
+
+
+
+
 
