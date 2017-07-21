@@ -24,7 +24,10 @@ Description of problems - https://softuni.bg/trainings/resources/officedocument/
 Description of problems - https://softuni.bg/trainings/resources/officedocument/16413/exercise-problem-descriptions-databases-frameworks-hibernate-and-spring-data-june-2017;
 
 - Fetching ResultSetswith JDBC еxercises - https://github.com/yani-valeva/Databases-Frameworks---Hibernate-And-Spring-Data/tree/master/DbAppsIntroduction.
-Description of problems - https://softuni.bg/trainings/resources/officedocument/16551/exercise-problem-descriptions-databases-frameworks-hibernate-and-spring-data-june-2017.
+Description of problems - https://softuni.bg/trainings/resources/officedocument/16551/exercise-problem-descriptions-databases-frameworks-hibernate-and-spring-data-june-2017;
+
+- Introduction to Hibernate еxercises - https://github.com/yani-valeva/Databases-Frameworks---Hibernate-And-Spring-Data/tree/master/06.%20DB-Advanced-Introduction-to-Hibernate-Skeleton.
+Description of problems - https://softuni.bg/trainings/resources/officedocument/16619/exercise-problem-descriptions-databases-frameworks-hibernate-and-spring-data-june-2017.
 
 
 
