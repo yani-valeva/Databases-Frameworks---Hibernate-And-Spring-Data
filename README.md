@@ -32,7 +32,10 @@ Description of problems - https://softuni.bg/trainings/resources/officedocument/
 - Hibernate Code First + Entity Relations exercises - https://github.com/yani-valeva/Databases-Frameworks---Hibernate-And-Spring-Data/tree/master/entity%20relations.
 Description of problems - https://softuni.bg/trainings/resources/officedocument/16790/exercise-problem-descriptions-databases-frameworks-hibernate-and-spring-data-june-2017;
 
-- Spring Data Intro exercises - https://github.com/yani-valeva/Databases-Frameworks---Hibernate-And-Spring-Data/tree/master/Spring%20Data%20Intro.
+- Spring Data Intro exercises - https://github.com/yani-valeva/Databases-Frameworks---Hibernate-And-Spring-Data/tree/master/Spring%20Data%20Intro;
+
+- Spring Data Advanced Querying exercises - https://github.com/yani-valeva/Databases-Frameworks---Hibernate-And-Spring-Data/tree/master/Spring%20Data%20Advanced%20Querying/bookshop;
+Description of problems - https://softuni.bg/trainings/resources/officedocument/17029/exercise-problem-descriptions-databases-frameworks-hibernate-and-spring-data-june-2017.
 
 
 
